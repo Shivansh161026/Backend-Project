@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "creating weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nitish"
+  ],
+  "author": "nitish",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
